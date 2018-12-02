@@ -8,6 +8,6 @@ public class CodeTest {
         System.out.println("lisi:this is update code");
 
         System.out.println("test:版本回退");
-        System.out.println("test：版本回退2");
+        System.out.println("test:版本回退2 34");
     }
 }
